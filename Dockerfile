@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Maksym Nebot, <maksym.nebot@accenture.com>
+LABEL version = '1.3.5'
 
 #ENV VARIABLES
 
